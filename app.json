@@ -13,15 +13,15 @@
     "stack": "container",
       "env": {
       "BOT_TOKEN": {
-        "description": "The telegram bot token that you get from @BotFather.",
+        "description": "2140324038:AAGxYMSrqL3dna-GynSfBxa-wKUDIbHQSqI",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The Telegram user ID (not username) of the owner of the bot.",
+        "description": "1867730577",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
-        "description": "Generate using python3 generate_telegraph_token.py.",
+        "description": "6f9f2e6d2391060d4226a5b7c45327607e424afe58a2be166029022ab85a",
         "required": true
       }
     }
